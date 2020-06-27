@@ -1,0 +1,28 @@
+# Editors
+.vscode
+.idea
+# SCALA
+scala/**/target
+# KOTLIN
+kotlin/**/.gradle
+kotlin/**/build
+kotlin/**/out/
+kotlin/**/bin/
+kotlin/**/.classpath
+kotlin/**/.project
+kotlin/**/.settings/
+# C#
+csharp/**/bin
+csharp/**/obj
+# F#
+fsharp/**/bin
+fsharp/**/obj
+# RUST
+rust/**/target
+# JAVASCRIPT
+ecmascript/**/node_modules
+# TYPESCRIPT
+typescript/**/node_modules
+# PYTHON
+python/**/__pycache__
+python/**/.pytest_cache

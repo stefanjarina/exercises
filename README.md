@@ -1,2 +1,7 @@
-# exercises
-Exercises from different sources for bunch of programming languages
+# Exercises
+
+This repo contains bunch of completed exercises from different sites
+
+## Sites so far
+
+- [exercism.io](https://exercism.io)
