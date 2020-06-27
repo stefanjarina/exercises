@@ -1,28 +1,34 @@
-# Editors
+###########
+# Editors #
+###########
 .vscode
 .idea
+
+############
+# EXERCISM #
+############
 # SCALA
-scala/**/target
+exercism/scala/**/target
 # KOTLIN
-kotlin/**/.gradle
-kotlin/**/build
-kotlin/**/out/
-kotlin/**/bin/
-kotlin/**/.classpath
-kotlin/**/.project
-kotlin/**/.settings/
+exercism/kotlin/**/.gradle
+exercism/kotlin/**/build
+exercism/kotlin/**/out/
+exercism/kotlin/**/bin/
+exercism/kotlin/**/.classpath
+exercism/kotlin/**/.project
+exercism/kotlin/**/.settings/
 # C#
-csharp/**/bin
-csharp/**/obj
+exercism/csharp/**/bin
+exercism/csharp/**/obj
 # F#
-fsharp/**/bin
-fsharp/**/obj
+exercism/fsharp/**/bin
+exercism/fsharp/**/obj
 # RUST
-rust/**/target
+exercism/rust/**/target
 # JAVASCRIPT
-ecmascript/**/node_modules
+exercism/ecmascript/**/node_modules
 # TYPESCRIPT
-typescript/**/node_modules
+exercism/typescript/**/node_modules
 # PYTHON
-python/**/__pycache__
-python/**/.pytest_cache
+exercism/python/**/__pycache__
+exercism/python/**/.pytest_cache
