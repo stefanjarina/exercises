@@ -46,6 +46,23 @@ pytest --ff filename_test.py         # failed tests first
 pytest -x --ff filename_test.py      # recommended way to run test suite
 ```
 
+### Rust
+
+- Testing
+
+```bash
+cargo test
+cargo test -- --ignored   # run all ignored tests without editing the tests
+cargo test some_test      # run specific test
+```
+
+- Code Quality
+
+```bash
+cargo fmt                   # format rust code
+cargo clippy --all-targets  # find common ineffective use cases
+```
+
 ### Swift
 
 ```bash
