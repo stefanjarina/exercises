@@ -63,6 +63,12 @@ cargo fmt                   # format rust code
 cargo clippy --all-targets  # find common ineffective use cases
 ```
 
+### Scala
+
+```bash
+sbt test
+```
+
 ### Swift
 
 ```bash
